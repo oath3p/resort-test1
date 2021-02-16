@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/resort-test1/static/css/main.3c71ac67.chunk.css",
+    "main.js": "/resort-test1/static/js/main.bda930d0.chunk.js",
+    "main.js.map": "/resort-test1/static/js/main.bda930d0.chunk.js.map",
+    "runtime-main.js": "/resort-test1/static/js/runtime-main.c5e53730.js",
+    "runtime-main.js.map": "/resort-test1/static/js/runtime-main.c5e53730.js.map",
+    "static/js/2.9b36b696.chunk.js": "/resort-test1/static/js/2.9b36b696.chunk.js",
+    "static/js/2.9b36b696.chunk.js.map": "/resort-test1/static/js/2.9b36b696.chunk.js.map",
+    "index.html": "/resort-test1/index.html",
+    "static/css/main.3c71ac67.chunk.css.map": "/resort-test1/static/css/main.3c71ac67.chunk.css.map",
+    "static/js/2.9b36b696.chunk.js.LICENSE.txt": "/resort-test1/static/js/2.9b36b696.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/resort-test1/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/resort-test1/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/resort-test1/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/resort-test1/static/media/img-9.f97f588f.jpg",
+    "static/media/logoResort555.8e78c73c.svg": "/resort-test1/static/media/logoResort555.8e78c73c.svg",
+    "static/media/video-3.145e267f.mp4": "/resort-test1/static/media/video-3.145e267f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5e53730.js",
+    "static/js/2.9b36b696.chunk.js",
+    "static/css/main.3c71ac67.chunk.css",
+    "static/js/main.bda930d0.chunk.js"
+  ]
+}
